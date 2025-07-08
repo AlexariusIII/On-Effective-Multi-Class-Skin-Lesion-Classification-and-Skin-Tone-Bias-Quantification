@@ -89,7 +89,7 @@ See the paper for detailed tables, figures, and discussion.
 
 2. **Install dependencies:**
    ```bash
-   pip install -r requirements.txt
+   conda env create --file environment.yml
    ```
    (Or use your preferred environment manager.)
 
